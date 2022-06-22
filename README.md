@@ -2,6 +2,8 @@
 
 > Projeto criado durante o evento Ignite Lab da RocketSeat
 
+> Em construção
+
 ## 👨‍💻 Tecnologias e bibliotecas utilizadas 👩‍💻
 
 - Javascript / Typescript : Linguagem programação
@@ -14,6 +16,8 @@
 
 - @apollo/client
 - graphql
+- phosphor-react
+- date-fns
 
 ## 📃 Guia 📖
 
@@ -43,10 +47,6 @@
 
         importar o arquivo global.css no main.tsx
 
-- Instalando o Apollo e o Graphql
-
-        npm install @apollo/client graphql
-
 ## ➕ O que fiz além ✨
 
 ## 🖼️ Imagens do projeto 👀
@@ -61,6 +61,6 @@
 
 -
 
-## 🔥 Repositórios do Ignite Lab 🫶
+## 🔥 Repositórios do Ignite Lab 🔥
 
--
+- https://github.com/rodolfoHOk/rocketseat.event-platform
