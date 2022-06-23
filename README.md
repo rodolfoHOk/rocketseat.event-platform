@@ -9,8 +9,8 @@
 - Javascript / Typescript : Linguagem programação
 - Vite : Ferramenta de criação de Front-end
 - React : Biblioteca criação de interfaces
-- Tailwind CSS : Framework css
-- GraphQL : Arquitetura da API
+- Tailwind CSS : Framework CSS
+- GraphQL : Mode de consumo da API
 
 ### 📚 bibliotecas adicionais 🗃️
 
@@ -18,6 +18,9 @@
 - graphql
 - phosphor-react
 - date-fns
+- @vime/core
+- @vime/react
+- react-router-dom
 
 ## 📃 Guia 📖
 
