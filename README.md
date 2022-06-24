@@ -21,6 +21,7 @@
 - @vime/core
 - @vime/react
 - react-router-dom
+- classnames
 
 ## 📃 Guia 📖
 
