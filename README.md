@@ -10,7 +10,9 @@
 - Vite : Ferramenta de criação de Front-end
 - React : Biblioteca criação de interfaces
 - Tailwind CSS : Framework CSS
-- GraphQL : Mode de consumo da API
+- GraphQL : Tipo da API utilizada
+- Apollo Client : Biblioteca para consumo de API GraphQL
+- GraphQL Code Generator : Gerador de código para usar o GraphQL com Apollo
 
 ### 📚 bibliotecas adicionais 🗃️
 
@@ -51,6 +53,25 @@
 
         importar o arquivo global.css no main.tsx
 
+- Instalando o GraphQL Code Generator:
+
+        npm i -D @graphql-codegen/typescript @graphql-codegen/typescript-operations @graphql-codegen/typescript-react-apollo @graphql-codegen/cli
+
+        criar o arquivo de configuração codegen.yaml
+
+- Criar um arquivo .graphql para cada query e mutation
+
+- Gerando o código de graphql com o CodeGen:
+
+        criar o script no package.json: "codegen": "graphql-codegen"
+
+        npm run codegen
+
+- Usando o código gerado com o CodeGen:
+
+        substituir os useQuery e useMutation pelos hook equivalentes criados
+        *obs: o codegen gera hooks para cada query e mutation
+
 ## ➕ O que fiz além ✨
 
 ## 🖼️ Imagens do projeto 👀
@@ -60,6 +81,8 @@
 ## 🔗 Links úteis ✨
 
 - [GraphCMS](https://graphcms.com/)
+
+- [GraphQL Code Generator](https://www.graphql-code-generator.com/)
 
 ## 🚀 Deploy 🔥
 
