@@ -72,7 +72,11 @@
         substituir os useQuery e useMutation pelos hook equivalentes criados
         *obs: o codegen gera hooks para cada query e mutation
 
-## ➕ O que fiz além ✨
+## ➕ O que fazer além: ✨
+
+- Somente pessoas inscritas ter acesso ao conteúdo.
+
+- Versão responsiva
 
 ## 🖼️ Imagens do projeto 👀
 
@@ -86,8 +90,8 @@
 
 ## 🚀 Deploy 🔥
 
--
+- Vercel: https://rocketseat-event-platform-rodolfohok.vercel.app/
 
-## 🔥 Repositórios do Ignite Lab 🔥
+## 🔥 Repositório do projeto (this) 🔥
 
 - https://github.com/rodolfoHOk/rocketseat.event-platform
